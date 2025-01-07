@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "677d4a9bdc0a5f3302c6468f"
+  },
+  "title": "Automate The Boring Stuff with Python"
+},
+{
+  "_id": {
+    "$oid": "677d4a9bdc0a5f3302c64690"
+  },
+  "title": "HTML and CSS: Design and Build Websites"
+},
+{
+  "_id": {
+    "$oid": "677d4a9bdc0a5f3302c64691"
+  },
+  "title": "Eloquent JavaScript"
+},
+{
+  "_id": {
+    "$oid": "677d4a9bdc0a5f3302c64692"
+  },
+  "title": "Clean Code"
+},
+{
+  "_id": {
+    "$oid": "677d4a9bdc0a5f3302c64693"
+  },
+  "title": "Design Patterns"
+}]
